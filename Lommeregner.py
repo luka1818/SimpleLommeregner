@@ -15,8 +15,8 @@ while True:
             continue
         
     c = a+b
-    if a == 1:
-         print("kage")
+    if a == 69:
+         print("Nice")
     else:
         output= "{}+{}={}".format(a,b,c)
         print(output)
